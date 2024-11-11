@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/cells/dev/frame/opencv/build",
+  "command": "/usr/bin/g++ -isystem /usr/local/opencv/include/opencv4 -g -std=gnu++11 -o CMakeFiles/image.dir/image.cpp.o -c /home/cells/dev/frame/opencv/image.cpp",
+  "file": "/home/cells/dev/frame/opencv/image.cpp",
+  "output": "CMakeFiles/image.dir/image.cpp.o"
+},
+{
+  "directory": "/home/cells/dev/frame/opencv/build",
+  "command": "/usr/bin/g++ -isystem /usr/local/opencv/include/opencv4 -g -std=gnu++11 -o CMakeFiles/video.dir/video.cpp.o -c /home/cells/dev/frame/opencv/video.cpp",
+  "file": "/home/cells/dev/frame/opencv/video.cpp",
+  "output": "CMakeFiles/video.dir/video.cpp.o"
+}
+]
