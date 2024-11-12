@@ -1,4 +1,4 @@
-/home/cells/dev/frame/opencv/build/CMakeFiles/image.dir
-/home/cells/dev/frame/opencv/build/CMakeFiles/video.dir
-/home/cells/dev/frame/opencv/build/CMakeFiles/edit_cache.dir
-/home/cells/dev/frame/opencv/build/CMakeFiles/rebuild_cache.dir
+D:/dev/src/frame/opencv/build/CMakeFiles/image.dir
+D:/dev/src/frame/opencv/build/CMakeFiles/video.dir
+D:/dev/src/frame/opencv/build/CMakeFiles/edit_cache.dir
+D:/dev/src/frame/opencv/build/CMakeFiles/rebuild_cache.dir

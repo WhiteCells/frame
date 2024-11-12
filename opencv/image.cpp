@@ -39,7 +39,7 @@ int main(int argc, char *argv[])
     cv::imwrite("./out_default.png", img);
 
     // 保存为 PNG 彩色压缩图像
-    std::vector<int> opts2 {cv::IMWRITE_PNG_COMPRESSION, 9}; // 0-9 值越大，压缩时间越长，图像大小越小
+    std::vector<int> opts2 {cv::IMWRITE_PNG_COMPRESSION, 9 /* 0-9 值越大，压缩时间越长，图像大小越小 */};
     cv::imwrite("./out_png_compression.png", img, opts2);
 
     // 保存为 JPG 高压压缩比图像
