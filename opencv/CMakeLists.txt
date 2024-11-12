@@ -19,4 +19,4 @@ link_libraries(${OpenCV_LIBS})
 
 add_executable(image image.cpp)
 add_executable(video video.cpp)
-
+add_executable(mat Mat.cpp)
